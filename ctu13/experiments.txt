@@ -1,7 +1,4 @@
-working with ctu13 dataset
-we have randamoized the scrport and srcadd to make ML model understand the rest of the values
-We have also remove dstport/dst address for one exp
-we used GANs and WGANs to create the synthetic datasets
+Working with ctu13 dataset
 
 - gan/wgan Trained and tested with wgan synthetic data
 - modified ctu 13 Trained with original data and tested with wgan synthetic data
